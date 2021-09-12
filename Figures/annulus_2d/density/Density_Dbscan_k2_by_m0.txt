@@ -1,0 +1,29 @@
+
+Density Clustering Optimizer
+
+ .. optimization method:
+	dbscan
+
+ .. data:
+	500 coordinates in 2 dimensions
+
+ .. cluster threshold (neighborhood eps):
+	5
+
+ .. maximum radius:
+	3
+
+ .. number of clusters:
+	2
+
+ .. number of noise:
+	0
+
+ .. success:
+	True
+
+ .. time elapsed:
+	1.014194903999993
+
+ .. flags:
+	None

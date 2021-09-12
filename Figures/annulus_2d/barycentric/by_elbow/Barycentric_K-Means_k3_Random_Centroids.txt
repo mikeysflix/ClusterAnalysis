@@ -1,0 +1,37 @@
+
+Barycentric Clustering Optimizer
+
+ .. optimization method:
+	k-means
+
+ .. barycenter selection method:
+	random centroids
+
+ .. number of barycenters (or clusters):
+	k=3
+
+ .. data:
+	500 coordinates in 2 dimensions
+
+ .. barycenters:
+[[-3.91140298 -4.86307725]
+ [-2.28620259  5.66539263]
+ [ 6.15881832 -0.89771522]]
+
+ .. success:
+	True
+
+ .. silhouette coefficient:
+	0.47131519317090415
+
+ .. number of iterations:
+	7
+
+ .. time elapsed:
+	0.0033198080000005348
+
+ .. cost:
+	2246.4939940900267
+
+ .. flags:
+	None

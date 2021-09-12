@@ -1,0 +1,14 @@
+
+Agglomerative Clustering (Dendrogram) Optimizer
+
+ .. optimization method:
+	single-linkage
+
+ .. data:
+	500 coordinates in 2 dimensions
+
+ .. time elapsed:
+	1.4603153770000006
+
+ .. flags:
+	None
