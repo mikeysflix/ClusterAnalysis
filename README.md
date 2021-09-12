@@ -57,7 +57,7 @@ Note that there are two eyes inside the smiley face - these may be hard to disti
 
 2) Regarding density clustering methods, add mean-shift.
 
-3) Regarding agglomerative (hierarchical) clustering, add more linkage criteria (wards, avg, etc) and add methods to cut the dendrogram.
+3) Regarding agglomerative (hierarchical) clustering, add more linkage criteria (wards, avg, etc), add methods to cut the dendrogram, and add cophenetic matrix.
 
 4) Compare speed and accuracy of these "reinvent the wheel" methods to established methods via scipy and scikit, preferably using standard datasets (like MNIST). 
 
